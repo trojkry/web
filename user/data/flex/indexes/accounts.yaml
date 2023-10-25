@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1698209056
+count: 1
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1698209055
+    key: admin
+    email: krystof.trojak@gmail.com

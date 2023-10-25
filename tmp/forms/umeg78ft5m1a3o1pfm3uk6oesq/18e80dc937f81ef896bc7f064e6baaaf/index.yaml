@@ -1,0 +1,93 @@
+form: flex-pages
+id: 'tmp://forms/session/18e80dc937f81ef896bc7f064e6baaaf'
+unique_id: 18e80dc937f81ef896bc7f064e6baaaf
+url: 'http://localhost/grav-admin-v1.7.43/grav-admin/admin/pages/tel-cisla/obrazky'
+user:
+  username: admin
+  email: krystof.trojak@gmail.com
+timestamps:
+  created: 1698213478
+  updated: 1698213478
+data:
+  header:
+    title: obrázky
+    media_order: null
+    body_classes: null
+    order_by: null
+    order_manual: null
+    published: null
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    redirect_default_route: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: "## Obrázky\n* V dnešní digitální době, kde je snadný přístup k internetu a sdílení obsahu běžné, se bezpečnost obrázků stala naléhavým problémem. Obrázky nesou často bohaté množství informací, ať už jsou to místa, kde byly pořízeny, lidé na nich zobrazení, nebo časové údaje. Tyto údaje mohou být využity pro různé účely, včetně sledování jednotlivců, podvodů, nebo dokonce terorismu.\n\t\t\tObrázky, které jsou nahrány na veřejné platformy, mohou být snadno shromážděny a analyzovány, což vytváří bezpečnostní rizika pro jednotlivce i organizace. Bez ohledu na to, zda jde o sociální média, webové stránky nebo mobilní aplikace, je třeba být obezřetný při sdílení nebo publikování obrázků online.\n\t\t\tOchrana bezpečnosti obrázků vyžaduje nejen vědomosti o možných rizicích, ale také schopnost rozpoznat a minimalizovat úniky citlivých informací prostřednictvím obrázků. Tento úvod nám poskytuje vhled do problematiky a zdůrazňuje potřebu obezřetnosti při manipulaci s vizuálními daty v digitálním prostředí.\n            * [Reverzní vyhledávání obrázků](https://images.google.com/?gws_rd=ssl)\n            * [Vyhledávač podle lokace (najde obrázky ze zadané lokace)](https://www.flickr.com/map/)\n            * [Analizátor obrázků](https://fotoforensics.com/)"
+  folder: obrazky
+  route: /
+  name: default
+  ordering: false
+  order: null
+  blueprint: null
+  lang: null
+  xss_check: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: tel-cisla/obrazky
+  storage_key: 04.tel-cisla/obrazky
+  timestamp: 1698213102
+  serialized:
+    __META:
+      key: tel-cisla/obrazky
+      storage_key: 04.tel-cisla/obrazky
+      template: default
+      storage_timestamp: 1698213102
+      markdown:
+        '': { default: 1698212962 }
+      children:
+        ip-adresa: false
+      checksum: cdf98e5870961841ead9cb91a2c042a2
+    storage_key: 04.tel-cisla/obrazky
+    parent_key: 04.tel-cisla
+    order: false
+    folder: obrazky
+    template: default
+    lang: ''
+    header:
+      title: obrázky
+    root: false
+    route: /tel-cisla
+    name: default.md
+    frontmatter: "title: obrázky\n"
+    slug: obrazky
+    ordering: false
+    markdown: "## Obrázky\n* V dnešní digitální době, kde je snadný přístup k internetu a sdílení obsahu běžné, se bezpečnost obrázků stala naléhavým problémem. Obrázky nesou často bohaté množství informací, ať už jsou to místa, kde byly pořízeny, lidé na nich zobrazení, nebo časové údaje. Tyto údaje mohou být využity pro různé účely, včetně sledování jednotlivců, podvodů, nebo dokonce terorismu.\n\t\t\tObrázky, které jsou nahrány na veřejné platformy, mohou být snadno shromážděny a analyzovány, což vytváří bezpečnostní rizika pro jednotlivce i organizace. Bez ohledu na to, zda jde o sociální média, webové stránky nebo mobilní aplikace, je třeba být obezřetný při sdílení nebo publikování obrázků online.\n\t\t\tOchrana bezpečnosti obrázků vyžaduje nejen vědomosti o možných rizicích, ale také schopnost rozpoznat a minimalizovat úniky citlivých informací prostřednictvím obrázků. Tento úvod nám poskytuje vhled do problematiky a zdůrazňuje potřebu obezřetnosti při manipulaci s vizuálními daty v digitálním prostředí.\n            * [Reverzní vyhledávání obrázků](https://images.google.com/?gws_rd=ssl)\n            * [Vyhledávač podle lokace (najde obrázky ze zadané lokace)](https://www.flickr.com/map/)\n            * [Analizátor obrázků](https://fotoforensics.com/)"

@@ -1,0 +1,20 @@
+1698212689
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:5:"opsec";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:8:"03.opsec";s:6:"header";a:1:{s:5:"title";s:5:"opsec";}s:4:"name";s:10:"default.md";s:11:"frontmatter";s:13:"title: opsec
+";s:4:"slug";s:5:"opsec";s:8:"ordering";b:1;s:8:"markdown";s:2548:"## Opsec
+* OPSEC, což znamená Operační Bezpečnostní, je klíčový koncept v oblasti bezpečnosti, který se zaměřuje na ochranu citlivých informací a operací před nepřátelským sledováním a útoky. Zkratka OPSEC označuje systematický přístup k identifikaci, analýze a kontrolám rizik, které mohou ohrozit bezpečnost organizace. Tento koncept není omezen jen na vojenské operace; aplikuje se i v oblasti firemní bezpečnosti, vládních agenturách a každodenním životě jednotlivců.
+			Cílem OPSEC je minimalizovat stopu informací, které organizace nebo jednotlivci zanechávají, aby se snížilo riziko odhalení důležitých informací a plánů nepřátelskými silami. Tato disciplína zahrnuje strategie týkající se správy informací, komunikace, fyzické bezpečnosti a vědomostí o hrozbách.
+			V tomto úvodu do OPSEC se zaměříme na základní principy a postupy této důležité disciplíny, abychom vám pomohli pochopit, jak chránit citlivé informace a zůstat bezpeční ve světě, který je stále více propojený a digitálně orientovaný.
+ 
+ 
+## Falešná identita
+* Je důležité si být vědom, že vytváření falešných identit je většinou neetické a může být nelegální. Falešné identity mohou být použity k podvodům, zneužívání osobních údajů a jiným nelegálním činnostem. Většina zemí má zákony, které trestají vytváření a používání falešných identit.
+				V některých případech existují legální důvody pro používání pseudonymů nebo alternativních identit, jako je například na internetu pro zachování anonymizace. Avšak i v takových případech by mělo být používání alternativních identit založeno na etických zásadách a dodržování právních předpisů.
+				Je důležité mít na paměti, že ve většině případů je upřímnost a transparentnost klíčová pro budování důvěryhodných vztahů v osobním i profesionálním životě. Používání falešných identit může poškodit reputaci a důvěryhodnost jednotlivce nebo organizace, což může mít vážné následky.
+                * https://www.fakenamegenerator.com/
+                	* generátor falešných jmen
+                * https://backgroundchecks.org/justdeleteme/fake-identity-generator/
+                	* generátor falešné identity
+                * https://randomuser.me/ 
+                	* generátor náhodných jmen
+                * https://www.pexels.com/cs-cz/
+                	* databáze obrázků";}s:7:"storage";a:6:{s:3:"key";s:5:"opsec";s:11:"storage_key";s:8:"03.opsec";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1698212089;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1698212089;}}s:8:"checksum";s:32:"77aad9d8cab4b9a27b2d1a949e066155";}}

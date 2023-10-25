@@ -1,0 +1,11 @@
+state: enabled
+email: krystof.trojak@gmail.com
+fullname: asdas
+title: dsad
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$YwBEW5f08qEAmxGILMTFpu/wpPByKZ7V7gKa/SqxSMW7h5IWMBONa
